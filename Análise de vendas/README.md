@@ -15,9 +15,11 @@ Atuando em estados do teritório brasileiro.
 * Total de Produtos vendidos
 * Lucro por produto
 ###
+<p align="center">
+  <img src="https://github.com/Peixoto-R/Estudos_PowerBI/blob/main/An%C3%A1lise%20de%20vendas/Analise_vendas%20-%20Power%20BI.png" width="100%">
+</p>
 
 
-
-
+Intereação e visualização disponivel em:  
 [Análise de Vendas](https://app.powerbi.com/view?r=eyJrIjoiOGM3N2JiNmMtYTM0ZC00NjhmLWE3NTEtYWFlMmU0NDhkMTljIiwidCI6ImQ2ZDJkY2ZmLWRkMDItNDljNS1iNDM4LTJiMTZjMTlmMTc1YiJ9)
 
