@@ -6,5 +6,4 @@ Este é um espaço reservado para arquivos de estudos realizados com a ferrament
 Você pode navegar pelo campo acima ou clicar diretamente em cada case.
 
 * [Indicadores Econômicos - Cotação Compra Dólar](https://github.com/Peixoto-R/Estudos_PowerBI/tree/main/Indicadores%20economicos)
-
-
+* [Análise de Vendas](https://github.com/Peixoto-R/Estudos_PowerBI/tree/main/An%C3%A1lise%20de%20vendas)
